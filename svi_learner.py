@@ -514,7 +514,7 @@ class GridRL():
             pi_diff.append(self.policy_diff(self.Policy, self.Policy_))
 
             if self.Ifplot == True:
-                self.plot("Action_result" + str(it), "../Gridworld/ActionHeat/")
+                self.plot("Action_result" + str(it), "../SMDPtools/ActionHeat/")
 
             for state in self.S:
                 s = tuple(state)
@@ -576,7 +576,7 @@ class GridRL():
             diff.append(np.inner(V_current - V_last, V_current - V_last))
             pi_diff.append(self.policy_diff(self.Policy, self.Policy_))
 
-            self.plot("Option_result" + str(it), "../Gridworld/HybridHeat/")
+            self.plot("Option_result" + str(it), "../SMDPtools/HybridHeat/")
 
             for state in self.S:
                 s = tuple(state)
