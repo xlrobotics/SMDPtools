@@ -1,0 +1,11 @@
+Run:
+step -  1 : (0, 'Sg')
+step -  2 : (1, 'Sy')
+step -  3 : (0, 'Sr')
+step -  4 : (0, 'Sry')
+step -  5 : (0, 'Sg')
+The result of product run is: False
+Delta functions: {(0, 'y'): 1, (0, 'phi'): 0, (1, 'r'): 0}
+Combined initial state: (0, 'Sg')
+All combined states: [(0, 'Sr'), (0, 'Sy'), (0, 'Sry'), (0, 'Sg'), (1, 'Sr'), (1, 'Sy'), (1, 'Sry'), (1, 'Sg'), (2, 'Sr'), (2, 'Sy'), (2, 'Sry'), (2, 'Sg')]
+Termination states: [(2, 'Sr'), (2, 'Sy'), (2, 'Sry'), (2, 'Sg')]

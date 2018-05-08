@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="573d0220-8faf-447f-9160-a3d395ee521d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comparing test/Grid_world_DFA.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comparing test/MDP.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comparing test/gridworldgenerator/sample_for_luis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comparing test/gridworldgenerator/sample_weighted_sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comparing test/gridworldgenerator/test_em.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comparing test/gridworldgenerator/test_gaussian.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Part 1 - Complete Task/Run 1/Episode_returns" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Part 1 - Complete Task/Run 1/Episode_time" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Part 1 - Complete Task/Run 1/weights_q_learner" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Part 1 - Complete Task/Run 2/Episode_returns" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Part 1 - Complete Task/Run 2/Episode_time" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Part 1 - Complete Task/Run 2/weights_q_learner" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Run 1/Episode_returns" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Run 1/Episode_time" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Run 1/weights_q_learner" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Run 2/Episode_returns" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Run 2/Episode_time" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Run 2/weights_q_learner" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Run 3/Episode_returns" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Run 3/Episode_time" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Graph data/Run 3/weights_q_learner" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Part-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Part-1_run2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../async_learner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../gridworld.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../learning_agent.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../marvin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../plotter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../q_learner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../weights_q_learner" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="sample.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/sample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="76" column="15" lean-forward="false" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
+              <folding>
+                <element signature="e#8310#9776#0" expanded="false" />
+                <element signature="e#9860#12188#0" expanded="false" />
+                <element signature="e#12242#13146#0" expanded="false" />
+                <element signature="e#14654#15283#0" expanded="false" />
+                <element signature="e#15314#15432#0" expanded="false" />
+                <element signature="e#15461#15848#0" expanded="false" />
+                <element signature="e#15886#17086#0" expanded="false" />
+                <element signature="e#17132#17723#0" expanded="false" />
+                <element signature="e#17766#18712#0" expanded="false" />
+                <element signature="e#18763#19125#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Option_V1_plain.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/Option_V1_plain.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>9, 11</find>
+      <find>(11, 11)</find>
+      <find>(8, 11</find>
+      <find>(2, 11</find>
+      <find>(8, 11)</find>
+      <find>(9, 11</find>
+      <find>(9, 11)</find>
+      <find>(20, 20)</find>
+      <find>self.unsafe</find>
+      <find>pruning</find>
+      <find>(1, 2)</find>
+      <find>(3, 4)</find>
+      <find>(10, 10)</find>
+      <find>(10, 11)</find>
+      <find>(20, 15)</find>
+      <find>global_g</find>
+      <find>plot</find>
+      <find>plot_heat</find>
+      <find>plotKey</find>
+      <find>state print</find>
+      <find>((1, 2), 3)</find>
+      <find>INIT_Q</find>
+      <find>length</find>
+      <find>new_unsafe</find>
+      <find>[1, 0]</find>
+      <find>init_R</find>
+      <find>print self.Q</find>
+      <find>.unsafe</find>
+      <find>transition_tree</find>
+      <find>.T</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>mdp</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/product.py_test" />
+        <option value="$PROJECT_DIR$/DTS.py" />
+        <option value="$PROJECT_DIR$/product result" />
+        <option value="$PROJECT_DIR$/product.py" />
+        <option value="$PROJECT_DIR$/DFA.py" />
+        <option value="$PROJECT_DIR$/quiver.py" />
+        <option value="$PROJECT_DIR$/readme" />
+        <option value="$PROJECT_DIR$/Grid_world_DFA.py" />
+        <option value="$PROJECT_DIR$/MDP.py" />
+        <option value="$PROJECT_DIR$/comparing test/policy_iteration_runner.py" />
+        <option value="$PROJECT_DIR$/comparing test/sample.py" />
+        <option value="$PROJECT_DIR$/comparing test/gridworldgenerator/test_gaussian.py" />
+        <option value="$PROJECT_DIR$/comparing test/gridworldgenerator/gmm/gmm.py" />
+        <option value="$PROJECT_DIR$/comparing test/gridworldgenerator/test_em.py" />
+        <option value="$PROJECT_DIR$/comparing test/gridworldgenerator/sample_weighted_sum.py" />
+        <option value="$PROJECT_DIR$/comparing test/gridworldgenerator/sample_for_luis.py" />
+        <option value="$PROJECT_DIR$/comparing test/DFA.py" />
+        <option value="$PROJECT_DIR$/comparing test/Grid_world_DFA.py" />
+        <option value="$PROJECT_DIR$/comparing test/MDP.py" />
+        <option value="$PROJECT_DIR$/comparing test/gridworldgenerator/sample.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="8" />
+    <option name="y" value="23" />
+    <option name="width" value="1241" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DFA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DFA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DFA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DFA" type="462c0819:PsiDirectoryNode" />
+              <item name="comparing test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DFA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DFA" type="462c0819:PsiDirectoryNode" />
+              <item name="comparing test" type="462c0819:PsiDirectoryNode" />
+              <item name="gridworldgenerator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/comparing test/gridworldgenerator" />
+      <recent name="$PROJECT_DIR$/comparing test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.sample (1)">
+    <configuration name="DFA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comparing test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DFA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparing test/DFA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Grid_world_DFA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comparing test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DFA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparing test/Grid_world_DFA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="MDP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comparing test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DFA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparing test/MDP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="sample (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comparing test/gridworldgenerator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DFA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparing test/gridworldgenerator/sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="sample_weighted_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comparing test/gridworldgenerator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DFA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparing test/gridworldgenerator/sample_weighted_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.sample (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sample_weighted_sum" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DFA" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Grid_world_DFA" />
+      <item index="4" class="java.lang.String" itemvalue="Python.MDP" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.sample (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Grid_world_DFA" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MDP" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DFA" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sample_weighted_sum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="573d0220-8faf-447f-9160-a3d395ee521d" name="Default" comment="" />
+      <created>1505617123997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505617123997</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_in_sample_py - 2017.11.29 at 10h 41m 09s.xml">
+      <configuration name="Nosetests in sample.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="8" y="23" width="1241" height="730" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24186823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2840909" sideWeight="0.30143946" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3398693" sideWeight="0.69856054" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1501251" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12254902" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2840909" sideWeight="0.30143946" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3812601" sideWeight="0.69856054" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46526656" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22132471" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990307" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="21" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/comparing test/Grid_world_DFA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/DFA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="31" lean-forward="false" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/SVI_result_V1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/Option_V1_plain.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="16" lean-forward="false" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+          <folding>
+            <element signature="e#8310#9776#0" expanded="false" />
+            <element signature="e#9860#12188#0" expanded="false" />
+            <element signature="e#12242#13146#0" expanded="false" />
+            <element signature="e#14654#15283#0" expanded="false" />
+            <element signature="e#15314#15432#0" expanded="false" />
+            <element signature="e#15461#15848#0" expanded="false" />
+            <element signature="e#15886#17086#0" expanded="false" />
+            <element signature="e#17132#17723#0" expanded="false" />
+            <element signature="e#17766#18712#0" expanded="false" />
+            <element signature="e#18763#19125#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/Grid_world_DFA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6375">
+          <caret line="762" column="0" lean-forward="true" selection-start-line="762" selection-start-column="0" selection-end-line="762" selection-end-column="0" />
+          <folding>
+            <element signature="e#8310#9776#0" expanded="false" />
+            <element signature="e#9860#12188#0" expanded="false" />
+            <element signature="e#12242#13146#0" expanded="false" />
+            <element signature="e#14654#15283#0" expanded="false" />
+            <element signature="e#15314#15432#0" expanded="false" />
+            <element signature="e#15461#15848#0" expanded="false" />
+            <element signature="e#15886#17086#0" expanded="false" />
+            <element signature="e#17132#17723#0" expanded="false" />
+            <element signature="e#17766#18712#0" expanded="false" />
+            <element signature="e#18763#19125#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/SVI_result_V1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/Option_V1_plain.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/DFA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="31" lean-forward="false" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/Grid_world_DFA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/DFA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="31" lean-forward="false" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/Option_V1_plain.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3480">
+          <caret line="269" column="40" lean-forward="false" selection-start-line="269" selection-start-column="40" selection-end-line="269" selection-end-column="40" />
+          <folding>
+            <element signature="e#8310#9776#0" expanded="false" />
+            <element signature="e#9860#12188#0" expanded="false" />
+            <element signature="e#12242#13146#0" expanded="false" />
+            <element signature="e#14654#15283#0" expanded="false" />
+            <element signature="e#15314#15432#0" expanded="false" />
+            <element signature="e#15461#15848#0" expanded="false" />
+            <element signature="e#15886#17086#0" expanded="false" />
+            <element signature="e#17132#17723#0" expanded="false" />
+            <element signature="e#17766#18712#0" expanded="false" />
+            <element signature="e#18763#19125#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/Grid_world_DFA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/DFA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="31" lean-forward="false" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/Option_V1_plain.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/Option_V1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3480">
+          <caret line="269" column="40" lean-forward="false" selection-start-line="269" selection-start-column="40" selection-end-line="269" selection-end-column="40" />
+          <folding>
+            <element signature="e#8310#9776#0" expanded="false" />
+            <element signature="e#9860#12188#0" expanded="false" />
+            <element signature="e#12242#13146#0" expanded="false" />
+            <element signature="e#14654#15283#0" expanded="false" />
+            <element signature="e#15314#15432#0" expanded="false" />
+            <element signature="e#15461#15848#0" expanded="false" />
+            <element signature="e#15886#17086#0" expanded="false" />
+            <element signature="e#17132#17723#0" expanded="false" />
+            <element signature="e#17766#18712#0" expanded="false" />
+            <element signature="e#18763#19125#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/compare_9_11.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/Option_V1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/DFA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="51" column="31" lean-forward="false" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/Grid_world_DFA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/SVI_result_V1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/Option_V1_plain.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/entropy.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparing test/gridworldgenerator/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="76" column="15" lean-forward="false" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
+          <folding>
+            <element signature="e#8310#9776#0" expanded="false" />
+            <element signature="e#9860#12188#0" expanded="false" />
+            <element signature="e#12242#13146#0" expanded="false" />
+            <element signature="e#14654#15283#0" expanded="false" />
+            <element signature="e#15314#15432#0" expanded="false" />
+            <element signature="e#15461#15848#0" expanded="false" />
+            <element signature="e#15886#17086#0" expanded="false" />
+            <element signature="e#17132#17723#0" expanded="false" />
+            <element signature="e#17766#18712#0" expanded="false" />
+            <element signature="e#18763#19125#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
